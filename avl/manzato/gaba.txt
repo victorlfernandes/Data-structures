@@ -1,0 +1,4 @@
+5(3(2(null,null),null),8(7(null,null),10(null,15(null,null))))
+Balanceamento para o lado esquerdo
+Balanceamento para o lado esquerdo
+8(5(3(null,null),7(null,null)),10(null,15(null,null)))
